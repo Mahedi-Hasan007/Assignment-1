@@ -1,0 +1,97 @@
+header{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20191011/pngtree-water-color-banner-background-image_319187.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    margin: 0px;
+    }
+
+header .content{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.living{
+    background: gray;
+    margin: 0px;
+    border: 5px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.divide{
+    display: flex;
+}
+.living h3{
+    text-align: center;
+}
+
+.display_devide_left{
+    text-align: center;
+    margin: 20px;
+}
+
+.display_devide_right{
+     text-align: center;
+     margin: 20px;
+ }
+
+.theme{
+    background-color: rgb(17, 119, 119);
+    height: 100%;
+    margin: 0px;
+    display: flex;
+    direction: row;
+    padding: 10px;
+}
+
+.left_content{
+    text-align: center;
+    margin: 10px;
+    background: wheat;
+    padding: 5px;
+}
+
+.middle_content{
+    text-align: center;
+    margin: 10px;
+    background: wheat;
+    padding: 5px;
+}
+
+.right_content{
+    text-align: center;
+    margin: 10px;
+    background: wheat;
+    padding: 5px;
+}
+
+.lower_section{
+    background: rgb(199, 184, 184);
+    text-align: center;
+    padding: 10px;
+    background-height:1000px
+}
+
+.bottom{
+    display: flex;
+}
+
+.footer_contact{
+    background-color: cornflowerblue;
+    text-align: center;
+    background: fit;
+    padding: 10px;
+}
+
+.information{
+    background-color: darkmagenta;
+    text-align: center;
+}
+
+.finishing{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
